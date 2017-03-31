@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kilogramos">Kilograms:</string>
+    <string name="app_name">Calculation of I.M.C</string>
+    <string name="Todos_los_Derechos">All Rights</string>
+    <string name="altura">Height:</string>
+    <string name="reservados">Reserved</string>
+    <string name="creado_por">Created By:</string>
+    <string name="salir">GET OUT</string>
+    <string name="ACERCA_DE">" ABOUT"</string>
+    <string name="CALCULAR">CALCULATE</string>
+    <string name="Infrapeso_Delgadez_Severa">Severe Thinness</string>
+    <string name="Infrapeso_Delgadez_moderada">Moderate thinness</string>
+    <string name="Infrapeso_Delgadez_aceptable">Acceptable thinness</string>
+    <string name="Peso_Normal">" Normal weight"</string>
+    <string name="Sobrepeso">" Overweight"</string>
+    <string name="Obeso_Tipo_I">" Obese: Type I"</string>
+    <string name="Obeso_Tipo_II">Obese: Type II</string>
+    <string name="Obeso_Tipo_III">Obese: Type III</string>
+    <string name="Ha_dejado_campos_vacios">" You have left empty fields"</string>
+    <string name="Datosgrabados">" Recorded data"</string>
+    <string name="Resultado">Result</string>
+</resources>

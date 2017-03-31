@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculo de I.M.C</string>
+    <string name="kilogramos">kilogramos:</string>
+    <string name="altura">Altura:</string>
+    <string name="Todos_los_Derechos">Todos los Derechos</string>
+    <string name="reservados">Reservados</string>
+    <string name="creado_por">Creado Por:</string>
+    <string name="salir">SALIR</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="ACERCA_DE">ACERCA DE</string>
+    <string name="Infrapeso_Delgadez_Severa">Infrapeso: Delgadez Severa</string>
+    <string name="Infrapeso_Delgadez_moderada">Infrapeso: Delgadez moderada</string>
+    <string name="Infrapeso_Delgadez_aceptable">Infrapeso: Delgadez aceptable</string>
+    <string name="Peso_Normal">Peso Normal</string>
+    <string name="Sobrepeso">Sobrepeso</string>
+    <string name="Obeso_Tipo_I">Obeso: Tipo I</string>
+    <string name="Obeso_Tipo_II">Obeso:_Tipo_II</string>
+    <string name="Obeso_Tipo_III">Obeso:_Tipo_III</string>
+    <string name="Ha_dejado_campos_vacios">Ha dejado campos vacíos</string>
+    <string name="Datosgrabados">Datos Grabados</string>
+    <string name="Resultado">Resultado</string>
+</resources>
